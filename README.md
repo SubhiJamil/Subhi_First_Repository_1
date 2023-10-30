@@ -1,2 +1,4 @@
 # Subhi_First_Repository_1
-Test 
+This is a Test Reposotory  
+
+Print("Hello Subhi")
